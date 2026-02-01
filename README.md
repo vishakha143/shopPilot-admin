@@ -1,7 +1,3 @@
-
-# shopPilot-admin
-React-based admin dashboard for managing products, users, and AI features in ShopPilot.
-
 # ShopPilot Admin Panel
 
 Admin dashboard for **ShopPilot**, an AI-powered e-commerce platform.
