@@ -4,7 +4,8 @@ Admin dashboard for **ShopPilot**, an AI-powered e-commerce platform.
 This panel is used to manage products, users, orders, and AI interactions.
 
 ## 🚀 Live Demo
-Will be updated after deployment
+https://shoppilot-admin-panel-rcasaslp5-vishakha143s-projects.vercel.app/
+
 
 ## 🛠 Tech Stack
 - React
